@@ -1,22 +1,25 @@
 ## The Ultimate Mount Pack: Soar and Spin Your Way Through Necesse!
 ![preview.png](src/main/resources/preview.png)
 
-This mod adds two powerful and exciting mounts to Necesse, allowing you to explore the world in new and exciting ways:
+This mod adds three powerful and exciting mounts to Necesse, allowing you to explore the world in new and exciting ways:
 
 **The Swift Bat:**
-* Fly above the terrain, soaring over water and trees.
-* Enjoy a travel distance buff for faster exploration.
 * Gain night vision during the nighttime for enhanced visibility.
 
 **The Mighty Spider:**
-* Ride through the caves with a fearsome arachnid companion.
 * Gain +10 additional spider summons when using your Spider Staff.
 * *These summons disappear when you dismount or use another summon item.*
 
+**The Swift Crocodile:**
+* Gain more speed on wather than in land.
+
 **How to Obtain Your Mounts:**
 
-* **Brave the Challenge:** Defeating Evil Protector and the Spider Queen will give you a chance to find the corresponding mount as loot.
-* **Seek the Merchant's Treasures:** After defeating these bosses once, your friendly traveling merchant may have the mounts for sale.
+* Defeat the Evil Protector for a chance to get the Bat Mount.
+* Defeat the Spider Queen for a chance to get the Spider Mount.
+* Defeat the Swamp Guardian for a chance to get the Crocodile Mount.
+
+After defeating these bosses once, your friendly **traveling merchant** may have the mounts for sale.
 
 ***This mod is a remake of the original ["Mount Pack"](https://github.com/creativemindpie/mountpack) mod, which has been fixed, updated and improved for compatibility with the latest version of Necesse.***
 
