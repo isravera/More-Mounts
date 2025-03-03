@@ -22,8 +22,6 @@ public class ToggleNightVisionComponent extends FormLocalTextButton {
                 SoundManager.playSound(MountPack.toggleNightVisionEffect, SoundEffect.globalEffect().volume(0.6f));
             }
 
-            System.out.println(enableSound);
-
             counter++;
 
             toggleNightVision();
