@@ -32,10 +32,6 @@ public class MountPack {
 
         EvilsProtectorMob.lootTable.items.add(new ChanceLootItem(0.1f, "batmount"));
         QueenSpiderMob.lootTable.items.add(new ChanceLootItem(0.1f, "spidermount"));
-
-        ZombieMob.lootTable.items.add(new ChanceLootItem(1, "partyhat"));
-        ZombieMob.lootTable.items.add(new ChanceLootItem(1, "pumpkinmask"));
-        ZombieMob.lootTable.items.add(new ChanceLootItem(1, "vulturemask"));
     }
 
     public void initResources() {
