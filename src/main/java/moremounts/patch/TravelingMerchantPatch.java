@@ -26,6 +26,9 @@ public class TravelingMerchantPatch {
                 if(client.characterStats().mob_kills.getKills("queenspider") > 0) {
                     list.add(ShopItem.item("spidermount", r2.getIntBetween(50000, 75000)));
                 }
+                if(client.characterStats().mob_kills.getKills("swampguardian") > 0) {
+                    list.add(ShopItem.item("crocodilemount", r2.getIntBetween(15000, 20000)));
+                }
             }
         };
     }
