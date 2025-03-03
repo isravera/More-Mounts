@@ -1,0 +1,14 @@
+[item]
+batmount=Montura de Murciélago
+spidermount=Montura de Araña
+
+[itemtooltip]
+batmounttip=Invoca un murciélago que puedes montar y otorga visión nocturna.
+spidermounttip=Invoca una araña que puedes montar y agrega +10 invocaciones al bastón arácnido.
+
+[mob]
+batmount=Murciélago
+spidermount=Araña
+
+[ui]
+toggleNV=Visión Nocturna

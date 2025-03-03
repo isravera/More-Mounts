@@ -1,19 +1,14 @@
-[tile]
-exampletile=Example Tile
-
-[object]
-exampleobject=Example Object
-
 [item]
-exampleitem=Example Item
-examplesword=Example Sword
-examplestaff=Example Staff
+batmount=Bat Mount
+spidermount=Spider Mount
 
 [itemtooltip]
-examplestafftip=Shoots a homing, piercing projectile
+batmounttip=Summons a bat that you can fly and grants night vision.
+spidermounttip=Summons a mountable spider and adds +10 summons to spider staff.
 
 [mob]
-examplemob=Example Mob
+batmount=Bat
+spidermount=Spider
 
-[buff]
-examplebuff=Example Buff
+[ui]
+toggleNV=Toggle Night Vision
